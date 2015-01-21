@@ -2,7 +2,7 @@ package fquery
 
 import (
 	"fmt"
-	"github.com/aktau/gofinance/util"
+	"github.com/jaisingh/gofinance/util"
 	"time"
 )
 

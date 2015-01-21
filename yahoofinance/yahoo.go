@@ -2,7 +2,7 @@ package yahoofinance
 
 import (
 	"fmt"
-	"github.com/aktau/gofinance/fquery"
+	"github.com/jaisingh/gofinance/fquery"
 	"time"
 )
 

@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	"github.com/aktau/gofinance/bloomberg"
-	"github.com/aktau/gofinance/fquery"
-	"github.com/aktau/gofinance/sqlitecache"
-	"github.com/aktau/gofinance/util"
-	"github.com/aktau/gofinance/yahoofinance"
+	"github.com/jaisingh/gofinance/bloomberg"
+	"github.com/jaisingh/gofinance/fquery"
+	"github.com/jaisingh/gofinance/sqlitecache"
+	"github.com/jaisingh/gofinance/util"
+	"github.com/jaisingh/gofinance/yahoofinance"
 	"math"
 	"os"
 	"path/filepath"
